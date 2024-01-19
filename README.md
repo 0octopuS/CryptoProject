@@ -2,27 +2,28 @@
 
 The crypto project of I&E course of Cyberspace Security Department in 2022 Spring.
 This is a group work project. The folders marked by 🐙 were done by me(Zhongxuan Xie).
+Under each folder, there is a README.md file to describe the detail of the project content.
 
 
 - 🦀 端木浩杰 [@cat538](https://github.com/cat538)
 - 🎣 刘齐   [@lqvir](https://github.com/lqvir)
 - 🐙 谢钟萱(Zhongxuan Xie) [@0octopuS](https://github.com/0octopuS)
 
-## 项目列表
+## Project Lists
 
 <table>
 <thead>
   <tr>
-    <th align="center" width=10%> 编号</th>
-    <th width=55%>项目名称</th>
-    <th width=25%>对应文件夹</th>
-    <th width=10%>完成人</th>
+    <th align="center" width=10%> No. </th>
+    <th width=55%>Project Name</th>
+    <th width=25%>Floder</th>
+    <th width=10%>By who</th>
   </tr>
 </thead>
 <tbody>
    <tr>
     <td align="center" colspan="4"> 
-        ✅已完成
+        ✅Finished
     </td> 
    </tr>
   <tr>
@@ -193,14 +194,14 @@ This is a group work project. The folders marked by 🐙 were done by me(Zhongxu
     <td align="center">🎣</td>
   </tr>
   <tr>
-    <td align="center">额外</td>
+    <td align="center">Extra</td>
     <td>  Do your best to optimize <code>SM4</code> implementation (software)</td>
     <td><a href="./sm4">sm4</a></td>
     <td align="center">🐙</td>
   </tr>
   <tr>
     <td align="center" colspan="4"> 
-        ❌未完成
+        ❌Unfinished
     </td> 
    </tr>
   <tr>
